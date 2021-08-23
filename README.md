@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I am a Japanese software engineer, and I write English with the help of DeepL Translator.
+#### I am a Japanese software engineer, and I write English with the help of DeepL Translator.
 
 **🔭 I’m currently working on ...**
   - I develop business software and indie games.
@@ -16,7 +15,7 @@ Preferably someone who prefers 2D indie games.
       - Undertale
       - Katana ZERO
 
-  My gaming career started with the Famicom (NES), so I've played a lot of old Japanese games.
+  　　My gaming career started with the Famicom (NES), so I've played a lot of old Japanese games.
 
 **⚡ Fun fact:**
   - Unusually for a programmer, I have also worked as an artist for a Japanese game company.
