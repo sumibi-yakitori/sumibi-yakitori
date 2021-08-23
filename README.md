@@ -19,7 +19,7 @@ Preferably someone who prefers 2D indie games.
       - Undertale
       - Katana ZERO
 
-  　　My gaming career started with the Famicom (NES), so I've played a lot of old Japanese games.
+  　　My gaming career started with the Famicom (NES), so I have played a lot of old Japanese games. So there are many games from that era that I like very much.
     
 
 **⚡ Fun fact:**
