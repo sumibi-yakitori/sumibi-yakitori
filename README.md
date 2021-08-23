@@ -18,7 +18,7 @@ Preferably someone who prefers 2D indie games.
   　　My gaming career started with the Famicom (NES), so I've played a lot of old Japanese games.
 
 **⚡ Fun fact:**
-  - Unusually for a programmer, I have also worked as an artist for a Japanese game company.
+  - Unusually for a programmer, I have also worked as an artist for Japanese game companies.
 
 
 <!--
