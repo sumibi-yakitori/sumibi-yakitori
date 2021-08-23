@@ -2,10 +2,14 @@
 #### I am a Japanese software engineer, and I write English with the help of DeepL Translator.
 
 **🔭 I’m currently working on ...**
-  - I develop business software and indie games.
-  - I do most of my work on secret GitLab repositories, so it doesn't show up in my GitHub activity.
+
+- I develop business software and indie games.
+  - These days I spend more time writing stories and pixel art than I do codes.
+- I do most of my work on secret GitLab repositories, so it doesn't show up in my GitHub activity.
+
 
 **👯 I’m looking to collaborate on ...**
+
   - I would be happy to have a friend who can work with me to create a beautiful, minimalist game that I am really looking for.
 Preferably someone who prefers 2D indie games.
 
@@ -16,6 +20,7 @@ Preferably someone who prefers 2D indie games.
       - Katana ZERO
 
   　　My gaming career started with the Famicom (NES), so I've played a lot of old Japanese games.
+    
 
 **⚡ Fun fact:**
   - Unusually for a programmer, I have also worked as an artist for Japanese game companies.
