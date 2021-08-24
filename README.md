@@ -5,7 +5,7 @@ I am a Japanese software engineer, and I write English with the help of DeepL Tr
 **🔭 I’m currently working on ...**
 
 - I develop business software and indie games.
-  - These days I spend more time writing stories and pixel art than I do codes.
+  - These days, I spend more time writing stories and pixel art than writing code.
 - I do most of my work in a secret Git server. so those activities don't show up in my GitHub activities.
 
 
