@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Japanese software engineer, and I write English with the help of DeepL Translator.
+I am a Japanese software developer, and I write English with the help of DeepL Translator.
 
 **🔭 I’m currently working on ...**
 
