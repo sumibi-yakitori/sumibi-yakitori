@@ -13,11 +13,10 @@ I am a Japanese software engineer, and I write English with the help of DeepL Tr
 
   - I would be happy to have a friend who can work with me to create a beautiful, minimalist game that I am really looking for.
 Preferably someone who prefers 2D indie games.
-  - What I'm currently working on is a JRPG.
-I'd be happy to get to know people who are more interested in writing pixel art, landscape design for dungeons and locations, and level design than mere programmers.
+  - What I am currently working on is a JRPG. I'd be happy to get to know people who are interested in writing pixel art, landscape design for dungeons and locations, level design, localization, etc., as well as engineers.
   - If you want money, I may be able to introduce you to remote work. But that may not be game development.
 
-    I haven't had much time to play games lately, but these are some of the games that I have liked.
+  - I haven't had much time to play games lately, but these are some of the games that I have liked.
       - Splatoon2
       - Celeste
       - Undertale
