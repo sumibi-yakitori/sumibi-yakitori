@@ -15,6 +15,7 @@ I am a Japanese software engineer, and I write English with the help of DeepL Tr
 Preferably someone who prefers 2D indie games.
   - What I'm currently working on is a JRPG.
 I'd be happy to get to know people who are more interested in writing pixel art, landscape design for dungeons and locations, and level design than mere programmers.
+  - If you want money, I may be able to introduce you to remote work. But that may not be game development.
 
     I haven't had much time to play games lately, but these are some of the games that I have liked.
       - Splatoon2
