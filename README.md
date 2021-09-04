@@ -17,6 +17,7 @@ Preferably someone who prefers 2D indie games.
   - If you want money, I may be able to introduce you to remote work. But that may not be game development. I also like to develop business software.
   - I haven't had much time to play games lately, but these are some of the games that I have liked.
       - Splatoon2
+      - BotW
       - Celeste
       - Undertale
       - Katana ZERO
