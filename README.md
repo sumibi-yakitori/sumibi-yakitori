@@ -7,13 +7,16 @@ I am a Japanese software developer, and I write English with the help of DeepL T
 - I develop business software and indie games.
   - **These days, I spend more time writing stories and pixel art than writing code.**
 - I do most of my work in a secret Git server. so those activities don't show up in my GitHub account activities.
-  - The development of the game itself has been slow, but I've been using Rust, iced, and tetra to create several in-house tools for game development, some of which are listed below.
 
-  ![](./pf.png)
-  > file manager
+The development of the game itself has been slow, but I've been using Rust, iced, and tetra to create several in-house tools for game development, some of which are listed below.
 
-  ![](./titanboard.png)
-  > sticky board
+**File manager**
+
+<img src="pf.png" srcset="pf.png 1x, pf.png 2x">
+
+**Sticky board**
+
+<img src="titanboard.png" srcset="titanboard.png 1x, titanboard.png 2x">
 
 
 
