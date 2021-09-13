@@ -54,8 +54,8 @@ Preferably someone who prefers 2D indie games.
 
 You can contact us at these locations.
 
-- [rust-jp (Slack)](https://rust-jp.slack.com)
 - [Game Development in Rust (Discord)](https://discord.gg/yNtPTb2)
+- [rust-jp (Slack)](https://rust-jp.slack.com)
 
 
 <!--
