@@ -13,6 +13,11 @@ I am a Japanese software developer, and I write English with the help of DeepL T
 
 <img src="pf.png" width="325" srcset="pf.png 1x, pf.png 2x">
 
+**Story editor**
+
+<img src="caw.png" width="509" srcset="caw.png 1x, caw.png 2x">
+
+
 **Sticky board**
 
 <img src="titanboard.png" width="597" srcset="titanboard.png 1x, titanboard.png 2x">
