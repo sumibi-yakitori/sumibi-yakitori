@@ -9,17 +9,17 @@ I am a Japanese software developer, and I write English with the help of DeepL T
 - I do most of my work in a secret Git server. so those activities don't show up in my GitHub account activities.
   - The development of the game itself has been slow, but I've been using Rust🚀, [tui](https://github.com/fdehau/tui-rs), [iced](https://github.com/iced-rs/iced), [tetra](https://github.com/17cupsofcoffee/tetra) to create several in-house tools, some of which are listed below.
 
-  **Context-aware dual-pane file manager**
+  **A context-aware dual-pane file manager**
   
   <img src="pf.png" width="325" srcset="pf.png 1x, pf.png 2x">
 
   
-  **Story editor**
+  **A story editor in CUI**
 
   <img src="caw.png" width="509" srcset="caw.png 1x, caw.png 2x">
 
 
-  **Sticky board**
+  **A sticky board**
 
   <img src="titanboard.png" width="597" srcset="titanboard.png 1x, titanboard.png 2x">
 
