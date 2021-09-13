@@ -8,7 +8,7 @@ I am a Japanese software developer, and I write English with the help of DeepL T
   - **These days, I spend more time writing stories and pixel art than writing code.**
 - I do most of my work in a secret Git server. so those activities don't show up in my GitHub account activities.
   - The development of the game itself has been slow, but I've been using Rust, 
-[iced](https://github.com/iced-rs/iced), and [tetra](https://github.com/17cupsofcoffee/tetra) to create several in-house tools., some of which are listed below.
+[iced](https://github.com/iced-rs/iced), and [tetra](https://github.com/17cupsofcoffee/tetra) to create several in-house tools, some of which are listed below.
 
 **File manager**
 
