@@ -12,11 +12,11 @@ The development of the game itself has been slow, but I've been using Rust, iced
 
 **File manager**
 
-<img src="pf.png" srcset="pf.png 1x, pf.png 2x">
+<img src="pf.png" width="325" srcset="pf.png 1x, pf.png 2x">
 
 **Sticky board**
 
-<img src="titanboard.png" srcset="titanboard.png 1x, titanboard.png 2x">
+<img src="titanboard.png" width="597" srcset="titanboard.png 1x, titanboard.png 2x">
 
 
 
