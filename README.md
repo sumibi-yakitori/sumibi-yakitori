@@ -52,7 +52,7 @@ Preferably someone who prefers 2D indie games.
 
 ### 📫 How to reach me: ...
 
-You can contact us at these locations.
+You can contact me at these locations.
 
 - [Game Development in Rust (Discord)](https://discord.gg/yNtPTb2)
 - [rust-jp (Slack)](https://rust-jp.slack.com)
