@@ -49,6 +49,13 @@ Preferably someone who prefers 2D indie games.
 ### ⚡ Fun fact:
   - Unusually for a programmer, I have also worked as an artist for Japanese game companies.
 
+### 📫 How to reach me: ...
+
+You can reach out to me through any of these means.
+
+- [Game Development in Rust (Discord)](https://discord.gg/yNtPTb2)
+- [rust-jp (Slack)](https://rust-jp.slack.com)
+
 
 <!--
 **sumibi-yakitori/sumibi-yakitori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
