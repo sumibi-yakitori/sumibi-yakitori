@@ -49,6 +49,7 @@ Preferably someone who prefers 2D indie games.
 ### ⚡ Fun fact:
   - Unusually for a programmer, I have also worked as an artist for Japanese game companies.
 
+
 ### 📫 How to reach me: ...
 
 You can contact us at these locations.
