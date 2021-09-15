@@ -46,7 +46,7 @@ Preferably someone who prefers 2D indie games.
   　　 My career as a game player started with the Famicom (NES), so I have played a lot of old Japanese games. Therefore, there are many games from that era that I like very much.
     
 
-### ⚡ Strange fact:
+### 👻 Strange fact:
 
 - Unusually for a programmer, I have also worked as an artist for Japanese game companies.
   - This is a model of a character that may appear in my game, which is slow in development.
