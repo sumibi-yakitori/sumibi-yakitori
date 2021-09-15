@@ -49,7 +49,7 @@ Preferably someone who prefers 2D indie games.
 ### 👻 Strange fact:
 
 - Unusually for a programmer, I have also worked as an artist for Japanese game companies.
-  - This is a model of a character that may appear in my game, which is slow in development. She is a poor girl who has been neglected since she was created because the creator is too busy with programming.
+  - This is a model of a character that may appear in my game, She is a pathetic girl who has been neglected since she was created because the creator is caught up in programming and daily life events.
   
   <a href="https://twitter.com/yakitori_sp/status/1091902418323816448"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1091902127197249537/pu/img/pISQna7L-JZSBMtA.jpg" width="250"></a>
 
