@@ -33,14 +33,14 @@ Preferably someone who prefers 2D indie games.
   - If you want money, I may be able to introduce you to remote work. But that may not be game development. I also like to develop business software.
   - I haven't had much time to play games lately, but these are some of the games that I have liked.
       - Splatoon 2
+      - Undertale
       - BotW
       - Celeste
-      - Undertale
+      - Cave story
       - FTL
       - Risk of Rain
       - VA-11 Hall-A
       - Katana ZERO
-      - Cave story
       - etc..
 
   　　 My career as a game player started with the Famicom (NES), so I have played a lot of old Japanese games. Therefore, there are many games from that era that I like very much.
