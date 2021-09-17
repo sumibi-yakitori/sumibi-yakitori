@@ -37,6 +37,7 @@ Preferably someone who prefers 2D indie games.
       - BotW
       - Celeste
       - Cave story
+      - Terraria
       - FTL
       - Risk of Rain
       - VA-11 Hall-A
