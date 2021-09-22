@@ -42,6 +42,7 @@ Preferably someone who prefers 2D indie games.
       - Risk of Rain
       - VA-11 Hall-A
       - Katana ZERO
+      - 
       - etc..
 
   　　 My career as a game player started with the Famicom (NES), so I have played a lot of old Japanese games. Therefore, there are many games from that era that I like very much.
