@@ -2,7 +2,7 @@
 
 I am a Japanese software developer, and I write English with the help of DeepL Translator.
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on:
 
 - I develop business software and indie games.
   - **These days, I spend more time writing stories and pixel art than writing code.**
@@ -25,7 +25,7 @@ I am a Japanese software developer, and I write English with the help of DeepL T
 
 
 
-### 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on:
 
   - I would be happy to have a friend who can work with me to create a beautiful, minimalist game that I am really looking for.
 Preferably someone who prefers 2D indie games.
@@ -56,7 +56,7 @@ Preferably someone who prefers 2D indie games.
   <a href="https://twitter.com/yakitori_sp/status/1091902418323816448"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1091902127197249537/pu/img/pISQna7L-JZSBMtA.jpg" width="250"></a>
 
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
 
 - You can contact me at these locations.
 
