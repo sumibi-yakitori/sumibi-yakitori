@@ -61,8 +61,7 @@ Preferably someone who prefers 2D indie games.
 - You can contact me at these locations.
 
   - [Game Development in Rust (Discord)](https://discord.gg/yNtPTb2)
-  - [rust-jp (Slack)](https://rust-jp.slack.com)
-
+  - <strike>[rust-jp (Slack)](https://rust-jp.slack.com)</strike>
 
 <!--
 **sumibi-yakitori/sumibi-yakitori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
