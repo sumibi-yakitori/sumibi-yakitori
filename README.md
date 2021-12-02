@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Japanese software developer. <!-- and I write English with the help of DeepL Translator.-->
+I am a Japanese software developer desu. <!-- and I write English with the help of DeepL Translator.-->
 <!-- https://japantoday.com/category/features/opinions/why-are-japanese-so-bad-at-english -->
 
 ### 🔭 I’m currently working on:
