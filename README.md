@@ -6,7 +6,7 @@ I am a Japanese software developer. <!-- and I write English with the help of De
 ### 🔭 I’m currently working on:
 
 - I develop business software and indie games.
-  - **These days, I spend more time writing stories and pixel art than writing code.**
+  - **These days, I spend more time writing level design and pixel art than writing code.**
 - I do most of my work outside of GitHub. so those activities don't show up in my GitHub account activities.
   - The development of the game itself has been slow, but I've been using Rust🚀, [GTK4](https://gitlab.gnome.org/sumibi-yakitori), [tui](https://github.com/fdehau/tui-rs), [iced](https://github.com/iced-rs/iced) and [tetra](https://github.com/17cupsofcoffee/tetra) to create several in-house tools, some of which are listed below.
 
