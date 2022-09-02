@@ -33,6 +33,7 @@ Preferably someone who prefers 2D indie games.
   - I am currently working on a very old-fashioned JRPG. I'd be happy to get to know people who are interested in writing pixel art, music compose, [landscape design for locations and dungeons, level design, story writing](https://minahito.wordpress.com/2012/09/01/planner-one-of-disciplines-in-japanese-video-game-industory/), localization, etc., as well as engineers.
   - If you want money, I may be able to introduce you to remote work. But that may not be game development. I also like to develop business software.
   - I haven't had much time to play games lately, but these are some of the games that I have liked.
+      - Splatoon 3
       - Splatoon 2
       - Undertale
       - BotW
