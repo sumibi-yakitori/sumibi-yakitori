@@ -9,7 +9,7 @@ I am a Japanese software developer. <!-- and I write English with the help of De
   - **These days, I spend more time writing level design and pixel art than writing code.**
 - I do most of my work outside of GitHub. so those activities don't show up in my GitHub account activities.
   - The development of the game itself has been slow, but I've been using Rust🚀, [GTK4](https://gitlab.gnome.org/GNOME/gtk/-/merge_requests?scope=all&state=merged&author_username=sumibi-yakitori), [tui](https://github.com/fdehau/tui-rs), [iced](https://github.com/iced-rs/iced) and [tetra](https://github.com/17cupsofcoffee/tetra) to create several in-house tools, some of which are listed below.
-    - [As for GTK4, I am continuing to follow up to get this working on macOS.](https://gitlab.gnome.org/GNOME/gtk/-/merge_requests?scope=all&state=merged&author_username=sumibi-yakitori)
+    - [As for GTK4, I am continuing to follow up to get this working on macOS.](https://gitlab.gnome.org/GNOME/gtk/-/merge_requests?scope=all&state=all&author_username=sumibi-yakitori)
 
   **A context-aware dual-pane file manager**
   
