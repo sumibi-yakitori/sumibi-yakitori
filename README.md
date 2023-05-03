@@ -13,7 +13,7 @@ I am a Japanese software developer. <!-- and I write English with the help of De
 
   **A Vim-like sprite editor**
 
-  <img src="visp.png" width="952" srcset="visp.png 1x, visp.png 2x">
+  <img src="visp.png" width="472" srcset="visp.png 1x, visp.png 2x">
   
 
   **A context-aware dual-pane file manager**
