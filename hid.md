@@ -2,6 +2,7 @@
 
 The circuits to which switches are soldered are likely to be through-holes.
 If those hard-to-remove switches are heated for a long time using a desoldering wick, the land will be heated and easily damaged.
+
 Therefore, as far as possible, use the FR-301[^DesolderingTool] and a suitable nozzle to suck out the solder.
 
 [^DesolderingTool]: [The FR-410 product page is more informative about desoldering](
@@ -13,6 +14,8 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 ### Microsoft Wheel Mouse Optical clones
 
 **SteelSeries RIVAL 3**
+
+This product has a heavy wheel click, but is otherwise a very good WMO clone. 
 
 - Price: 3000-5000 JPY 
 
@@ -35,6 +38,10 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 ### Trackballs
 
 **ELECOM IST (M-IT11DRBK)**
+
+This product uses bearings in the trackball support mechanism. However, all button switches are heavy.
+The heavy clicking of the main switches in particular leads to discomfort and fatigue as the time of use increases,
+so it is advisable to replace these switches first and foremost.
 
 | Button         | Original parts              | Replacement parts        |
 | -------------- | --------------------------- | ------------------------ |
