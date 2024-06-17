@@ -70,9 +70,7 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 ### Others
 
 <details>
-<summary>Expand</summary>
-  
-**ELECOM M-CAD01UBBK**
+<summary><strong>ELECOM M-CAD01UBBK</strong></summary>
 
 ![M-CAD01UBBK](https://m.media-amazon.com/images/I/71xStNk1RFL._AC_SL200_.jpg)
 
