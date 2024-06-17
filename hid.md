@@ -26,6 +26,17 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 | ------ | -------------- | -------------------------------------------- |
 | Middle | Unknown        | [Panasonic EVQP0E07K][EVQP0E07K][^EVQP0E07K] |
 
+
+**ROCCAT Burst Core**
+
+![Burst Core](https://m.media-amazon.com/images/I/61GoNz2MS0L._AC_SL200_.jpg)
+
+- Price: 3400 JPY 
+- The main switch is optical, which is said to prevent chattering, But the click feel is light but cheap
+- Side buttons are large and easy to press
+- [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
+
+
 ### Microsoft IntelliMouse Explorer 3.0 clones
 
 **SteelSeries RIVAL OPTICAL MOUSE**
