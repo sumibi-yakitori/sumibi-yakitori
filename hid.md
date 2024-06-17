@@ -19,7 +19,7 @@
 
 | Button         | Original parts         | Replacement parts |
 | -------------- | ---------------------- | ----------------- |
-| Rotary encoder | Something 11 mm height | ALPS EC10E1220503 |
+| Rotary encoder | Something 11 mm height | Alps EC10E1220503 |
 
 
 ### Trackballs
@@ -31,7 +31,7 @@
 | Left           | Kailh black body/red axis   | [OMRON D2F-01F][D2F-01F] |
 | Right          | Kailh black body/red axis   | [OMRON D2F-01F][D2F-01F] |
 | Middle         | Kailh black body/black axis | [OMRON D2F-01F][D2F-01F] |
-| Rotary encoder | Something 11 mm height      | ALPS EC10E1220503        |
+| Rotary encoder | Something 11 mm height      | Alps EC10E1220503        |
 |                |
 
 [D2F-01F]: https://components.omron.com/us-en/products/switches/D2F
