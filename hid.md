@@ -86,6 +86,11 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 
 **Kensington Orbit Wireless Trackball with Scroll Ring**
 
+![orbit trackball](https://m.media-amazon.com/images/I/61jaG6ZfwGL._AC_SL200_.jpg)
+
+Because of its small size, it could be a better left-hand device for me than the slimblade if the switches is replaced.
+The slimblade has a pointer that shifts when the ball is twisted.
+
 - [Disassembly](https://yamori-jp.blogspot.com/2018/11/kensington-orbit-trackball-with-scroll.html)
 
 
