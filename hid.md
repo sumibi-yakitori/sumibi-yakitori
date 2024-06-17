@@ -91,13 +91,15 @@ so it is advisable to replace these switches first and foremost.
 
 ## Switches
 
+Depending on the construction of the mouse wheel, the microswitch D2F-01F seems to me to have a lighter click feel than the tactile switch EVQP0E07K, even at the same operating load.
+
 ### D2F-01F
 
 [Specs](https://components.omron.com/us-en/products/switches/D2F)
 
 | Type            | Description |
 | --------------- | ----------- |
-| Operating Force | 75gf(0.75N) |
+| Operating Force | 0.74N(75gf)|
 
 ### EVQP0E07K
 
