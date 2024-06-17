@@ -22,9 +22,9 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 - Price: 3000-5000 JPY 
 
-| Button | Original parts | Replacement parts                                       |
-| ------ | -------------- | ------------------------------------------------------- |
-| Middle | Unknown        | [Panasonic EVQP0E07K](#evqp0e07k)[^EVQP0E07K][^nospace] |
+| Type          | Original parts | Replacement parts                                       |
+| ------------- | -------------- | ------------------------------------------------------- |
+| Middle button | Unknown        | [Panasonic EVQP0E07K](#evqp0e07k)[^EVQP0E07K][^nospace] |
 
 [^nospace]: There is no space here for a 3-pin microswitch.
 [^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
@@ -53,7 +53,7 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 - Price: 6300 JPY 
 - Release date: October 11, 2013
 
-| Button         | Original parts         | Replacement parts |
+| Type           | Original parts         | Replacement parts |
 | -------------- | ---------------------- | ----------------- |
 | Rotary encoder | Something 11 mm height | Alps EC10E1220503 |
 
@@ -79,11 +79,11 @@ This product uses bearings in the trackball support mechanism. However, all butt
 The heavy clicking of the main switches in particular leads to discomfort and fatigue as the time of use increases,
 so it is advisable to replace these switches first and foremost.
 
-| Button         | Original parts              | Replacement parts         |
+| Type           | Original parts              | Replacement parts         |
 | -------------- | --------------------------- | ------------------------- |
-| Left           | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
-| Right          | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
-| Middle         | Kailh black body/black axis | [OMRON D2F-01F](#d2f-01f) |
+| Left button    | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
+| Right button   | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
+| Middle button  | Kailh black body/black axis | [OMRON D2F-01F](#d2f-01f) |
 | Rotary encoder | Something 11 mm height      | Alps EC10E1220503         |
 
 
@@ -97,7 +97,7 @@ Depending on the construction of the mouse wheel, the microswitch D2F-01F seems 
 
 | Type            | Description |
 | --------------- | ----------- |
-| Operating Force | 0.74N(75gf)|
+| Operating Force | 0.74N(75gf) |
 
 ### EVQP0E07K
 
