@@ -10,6 +10,15 @@ Therefore, as far as possible, use the FR-301[^DesolderingToolVideo][^FR-410] an
 https://www.hakko.com/japan/products/hakko_fr410.html)
 
 
+## Keyboards
+
+**HHKB**
+
+- [Alternative controller for HHKB](https://hhkb.io/modding/controllers/)
+- [Keycaps](https://www.pfu.ricoh.com/direct/hhkb/hhkb-option/detail_keytop.html)
+- [Remapping is apparently possible with HHKB Classic](https://www.reddit.com/r/HHKB/comments/g9ciwp/remapping_the_classic_with_the_hhkbkeymaptool/)
+
+
 ## Pointing devices
 
 ### Microsoft Wheel Mouse Optical clones
@@ -70,6 +79,8 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 
 
 ### Trackballs
+
+[USB dongle for remapping using RP2040 different from hasu's](https://www.reddit.com/r/Trackballs/comments/t7paeh/remapping_mouse_buttonsaxes_in_hardware_proof_of/?rdt=60108)
 
 **ELECOM IST (M-IT11DRBK)**
 
