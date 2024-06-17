@@ -103,7 +103,7 @@ The slimblade has a pointer that shifts when the ball is twisted.
 
 
 
-**ELECOM IST (M-IT11DRBK)**
+**ELECOM IST Trackball(M-IT11DRBK)**
 
 ![IST](https://m.media-amazon.com/images/I/714XRz6oGSL._AC_SL200_.jpg)
 
