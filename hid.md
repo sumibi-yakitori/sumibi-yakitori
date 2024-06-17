@@ -89,7 +89,7 @@ so it is advisable to replace these switches first and foremost.
 
 ## Switches
 
-Depending on the construction of the mouse wheel, the microswitch D2F-01F seems to me to have a lighter click feel than the tactile switch EVQP0E07K, even at the same operating load.
+Depending on the construction of the mouse wheel, the microswitch D2F-01F seems to me to have a lighter click feel than the tactile switch EVQP0E07K, even at the same operating force.
 
 ### D2F-01F
 
