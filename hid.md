@@ -3,9 +3,10 @@
 The circuits to which switches are soldered are likely to be through-holes.
 If those hard-to-remove switches are heated for a long time using a desoldering wick, the land will be heated and easily damaged.
 
-Therefore, as far as possible, use the FR-301[^DesolderingTool] and a suitable nozzle to suck out the solder.
+Therefore, as far as possible, use the FR-301[^DesolderingToolVideo][^FR-410] and a suitable nozzle to suck out the solder.
 
-[^DesolderingTool]: [The FR-410 product page is more informative about desoldering](
+[^DesolderingToolVideo]: [Instructional videos on how to use the system do not exist on the Japanese language pages](https://hakkousa.com/products/desoldering/desoldering-tools/fr-301-portable-desoldering-tool.html)
+[^FR-410]: [The FR-410 product page is more informative about desoldering](
 https://www.hakko.com/japan/products/hakko_fr410.html)
 
 
