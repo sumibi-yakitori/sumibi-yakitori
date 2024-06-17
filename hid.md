@@ -25,6 +25,7 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 
 **SteelSeries RIVAL 3**
 
+![RIVAL 3](https://m.media-amazon.com/images/I/71yIvLJ3PjL._AC_SL200_.jpg)
 ![RIVAL 3](https://m.media-amazon.com/images/I/711nAJtefqL._AC_SL200_.jpg)
 
 This product has a heavy wheel click, but is otherwise a very good WMO clone. 
