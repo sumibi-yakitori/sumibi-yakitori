@@ -31,6 +31,8 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 ![RIVAL OPTICAL MOUSE](https://m.media-amazon.com/images/I/61y50QvUPSL._AC_SL200_.jpg)
 
+The rubber coating on the body of this product undergoes hydrolysis over time.
+
 - Price: 6300 JPY 
 - Release date: October 11, 2013
 
