@@ -80,7 +80,15 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 
 ### Trackballs
 
-[USB dongle for remapping using RP2040 different from hasu's](https://www.reddit.com/r/Trackballs/comments/t7paeh/remapping_mouse_buttonsaxes_in_hardware_proof_of/?rdt=60108)
+- [USB dongle for remapping using RP2040 different from hasu's](https://www.reddit.com/r/Trackballs/comments/t7paeh/remapping_mouse_buttonsaxes_in_hardware_proof_of/?rdt=60108)
+  - [Examples of use](https://yyoshisaur.hatenablog.com/entry/2023/11/08/120000)
+
+
+**Kensington Orbit Wireless Trackball with Scroll Ring**
+
+- [Disassembly](https://yamori-jp.blogspot.com/2018/11/kensington-orbit-trackball-with-scroll.html)
+
+
 
 **ELECOM IST (M-IT11DRBK)**
 
