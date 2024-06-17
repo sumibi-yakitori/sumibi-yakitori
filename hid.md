@@ -123,7 +123,7 @@ Depending on the construction of the mouse wheel, the microswitch D2F-01F seems 
 
 **Mitsubishi Pencil Jetstream 0.38 SXE3400381P.T**
 
-![Jetstream](ttps://m.media-amazon.com/images/I/51MHQGp94pL._AC_SL200_.jpg)
+![Jetstream](https://m.media-amazon.com/images/I/51MHQGp94pL._AC_SL200_.jpg)
 
 Even in the 2020s, Mitsubishi seems to be better than other stationery manufacturers in terms of writing quality.
 
