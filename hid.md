@@ -5,8 +5,8 @@ If those hard-to-remove switches are heated for a long time using a desoldering 
 
 Therefore, as far as possible, use the FR-301[^DesolderingToolVideo][^FR-410] and a suitable nozzle to suck out the solder.
 
-[^DesolderingToolVideo]: [Instructional videos on how to use the system do not exist on the Japanese language pages](https://hakkousa.com/products/desoldering/desoldering-tools/fr-301-portable-desoldering-tool.html)
-[^FR-410]: [The FR-410 product page is more informative about desoldering](
+[^DesolderingToolVideo]: [Instructional videos on how to use the system do not exist on the Japanese language pages.](https://hakkousa.com/products/desoldering/desoldering-tools/fr-301-portable-desoldering-tool.html)
+[^FR-410]: [The FR-410 product page is more informative about desoldering.](
 https://www.hakko.com/japan/products/hakko_fr410.html)
 
 
@@ -24,7 +24,9 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 | Button | Original parts | Replacement parts                            |
 | ------ | -------------- | -------------------------------------------- |
-| Middle | Unknown        | [Panasonic EVQP0E07K][EVQP0E07K][^EVQP0E07K] |
+| Middle | Unknown        | [Panasonic EVQP0E07K][EVQP0E07K][^EVQP0E07K][^nospace] |
+
+[^nospace]: There is no space here for a 3-pin microswitch.
 
 
 **ROCCAT Burst Core**
@@ -32,8 +34,9 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 ![Burst Core](https://m.media-amazon.com/images/I/61GoNz2MS0L._AC_SL200_.jpg)
 
 - Price: 3400 JPY 
-- The main switch is optical, which is said to prevent chattering, But the click feel is light but cheap
-- Side buttons are large and easy to press
+- The main switch is optical and is said to prevent chattering,
+  but the clicks are light and cheap, but not unpleasant.
+- Side buttons are large and easy to press.
 - [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
 
 
@@ -51,6 +54,20 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 | Button         | Original parts         | Replacement parts |
 | -------------- | ---------------------- | ----------------- |
 | Rotary encoder | Something 11 mm height | Alps EC10E1220503 |
+
+### Others
+
+**ELECOM M-CAD01UBBK**
+
+![M-CAD01UBBK](https://m.media-amazon.com/images/I/71xStNk1RFL._AC_SL200_.jpg)
+- It has an Omron micro switch.
+- It does not feel bad to hold.
+- Some DCC tool operations also require both a middle button click and wheel operation,
+  so if you have the time to replace the switch on a regular mouse to create the ideal mouse,
+  I recommend you take that route.
+
+
+
 
 
 ### Trackballs
