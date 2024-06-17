@@ -15,6 +15,8 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 
 **SteelSeries RIVAL 3**
 
+![RIVAL 3](https://m.media-amazon.com/images/I/711nAJtefqL._AC_SL200_.jpg)
+
 This product has a heavy wheel click, but is otherwise a very good WMO clone. 
 
 - Price: 3000-5000 JPY 
@@ -27,6 +29,8 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 **SteelSeries RIVAL OPTICAL MOUSE**
 
+![RIVAL OPTICAL MOUSE](https://m.media-amazon.com/images/I/61y50QvUPSL._AC_SL200_.jpg)
+
 - Price: 6300 JPY 
 - Release date: October 11, 2013
 
@@ -38,6 +42,8 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 ### Trackballs
 
 **ELECOM IST (M-IT11DRBK)**
+
+![IST](https://m.media-amazon.com/images/I/714XRz6oGSL._AC_SL200_.jpg)
 
 This product uses bearings in the trackball support mechanism. However, all button switches are heavy.
 The heavy clicking of the main switches in particular leads to discomfort and fatigue as the time of use increases,
