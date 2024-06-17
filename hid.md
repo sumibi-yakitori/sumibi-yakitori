@@ -85,8 +85,6 @@ so it is advisable to replace these switches first and foremost.
 | Right          | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
 | Middle         | Kailh black body/black axis | [OMRON D2F-01F](#d2f-01f) |
 | Rotary encoder | Something 11 mm height      | Alps EC10E1220503         |
-|                |
-
 
 
 ## Switches
