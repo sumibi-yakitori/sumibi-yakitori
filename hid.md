@@ -67,3 +67,4 @@ so it is advisable to replace these switches first and foremost.
 ## Links
 
 - [forPCActionGamer Wiki](https://wikiwiki.jp/fpag/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)
+- [A blog about taking apart mice and trackballs](https://michtw.blogspot.com/)
