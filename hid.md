@@ -71,6 +71,8 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 
 <details>
 <summary>Expand</summary>
+  
+**ELECOM M-CAD01UBBK**
 
 ![M-CAD01UBBK](https://m.media-amazon.com/images/I/71xStNk1RFL._AC_SL200_.jpg)
 
@@ -79,9 +81,9 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 - Some DCC tool operations also require both a middle button click and wheel operation,
   so if you have the time to replace the switch on a regular mouse to create the ideal mouse,
   I recommend you take that route.
+
 </details>
 
-**ELECOM M-CAD01UBBK**
 
 
 
