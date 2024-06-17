@@ -35,7 +35,7 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 - Price: 3400 JPY 
 - The main switch is optical and is said to prevent chattering,
-  but the clicks are light and cheap, but not unpleasant.
+  but the clicking sound is light and cheap but not that unpleasant.
 - Side buttons are large and easy to press.
 - [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
 
