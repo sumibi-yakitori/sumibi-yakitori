@@ -117,7 +117,7 @@ Depending on the construction of the mouse wheel, the microswitch D2F-01F seems 
 
 ### D2F-01F
 
-[Specs](https://components.omron.com/us-en/products/switches/D2F)
+[Specification](https://components.omron.com/us-en/products/switches/D2F)
 
 | Type            | Description |
 | --------------- | ----------- |
@@ -125,7 +125,7 @@ Depending on the construction of the mouse wheel, the microswitch D2F-01F seems 
 
 ### EVQP0E07K
 
-[Specs](https://na.industrial.panasonic.com/products/switches-encoders-interface-devices/switches/lineup/light-touch-tactile-switches/series/79330/model/79472)
+[Specification](https://na.industrial.panasonic.com/products/switches-encoders-interface-devices/switches/lineup/light-touch-tactile-switches/series/79330/model/79472)
 
 | Type            | Description |
 | --------------- | ----------- |
