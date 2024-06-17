@@ -24,7 +24,7 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 | Button | Original parts | Replacement parts                                       |
 | ------ | -------------- | ------------------------------------------------------- |
-| Middle | Unknown        | [Panasonic EVQP0E07K][#EVQP0E07K][^EVQP0E07K][^nospace] |
+| Middle | Unknown        | [Panasonic EVQP0E07K](#EVQP0E07K)[^EVQP0E07K][^nospace] |
 
 [^nospace]: There is no space here for a 3-pin microswitch.
 [^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
@@ -81,7 +81,7 @@ so it is advisable to replace these switches first and foremost.
 
 | Button         | Original parts              | Replacement parts         |
 | -------------- | --------------------------- | ------------------------- |
-| Left           | Kailh black body/red axis   | [OMRON D2F-01F][#D2F-01F] |
+| Left           | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
 | Right          | Kailh black body/red axis   | [OMRON D2F-01F][#D2F-01F] |
 | Middle         | Kailh black body/black axis | [OMRON D2F-01F][#D2F-01F] |
 | Rotary encoder | Something 11 mm height      | Alps EC10E1220503         |
