@@ -22,11 +22,12 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 - Price: 3000-5000 JPY 
 
-| Button | Original parts | Replacement parts                            |
-| ------ | -------------- | -------------------------------------------- |
-| Middle | Unknown        | [Panasonic EVQP0E07K][EVQP0E07K][^EVQP0E07K][^nospace] |
+| Button | Original parts | Replacement parts                                       |
+| ------ | -------------- | ------------------------------------------------------- |
+| Middle | Unknown        | [Panasonic EVQP0E07K][#EVQP0E07K][^EVQP0E07K][^nospace] |
 
 [^nospace]: There is no space here for a 3-pin microswitch.
+[^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
 
 
 **ROCCAT Burst Core**
@@ -68,9 +69,6 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
   I recommend you take that route.
 
 
-
-
-
 ### Trackballs
 
 **ELECOM IST (M-IT11DRBK)**
@@ -81,18 +79,35 @@ This product uses bearings in the trackball support mechanism. However, all butt
 The heavy clicking of the main switches in particular leads to discomfort and fatigue as the time of use increases,
 so it is advisable to replace these switches first and foremost.
 
-| Button         | Original parts              | Replacement parts        |
-| -------------- | --------------------------- | ------------------------ |
-| Left           | Kailh black body/red axis   | [OMRON D2F-01F][D2F-01F] |
-| Right          | Kailh black body/red axis   | [OMRON D2F-01F][D2F-01F] |
-| Middle         | Kailh black body/black axis | [OMRON D2F-01F][D2F-01F] |
-| Rotary encoder | Something 11 mm height      | Alps EC10E1220503        |
+| Button         | Original parts              | Replacement parts         |
+| -------------- | --------------------------- | ------------------------- |
+| Left           | Kailh black body/red axis   | [OMRON D2F-01F][#D2F-01F] |
+| Right          | Kailh black body/red axis   | [OMRON D2F-01F][#D2F-01F] |
+| Middle         | Kailh black body/black axis | [OMRON D2F-01F][#D2F-01F] |
+| Rotary encoder | Something 11 mm height      | Alps EC10E1220503         |
 |                |
 
-[D2F-01F]: https://components.omron.com/us-en/products/switches/D2F
-[EVQP0E07K]: https://na.industrial.panasonic.com/products/switches-encoders-interface-devices/switches/lineup/light-touch-tactile-switches/series/79330/model/79472
 
-[^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
+
+## Switches
+
+### D2F-01F
+
+[Specs](https://components.omron.com/us-en/products/switches/D2F)
+
+| Type            | Description |
+| --------------- | ----------- |
+| Operating Force | 75gf(0.75N) |
+
+### EVQP0E07K
+
+[Specs](https://na.industrial.panasonic.com/products/switches-encoders-interface-devices/switches/lineup/light-touch-tactile-switches/series/79330/model/79472)
+
+| Type            | Description |
+| --------------- | ----------- |
+| Operating Force | 0.74N       |
+
+
 
 ## Links
 
