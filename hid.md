@@ -23,8 +23,8 @@ graph TD;
     end
 
     subgraph Windows 95-NT-98
-    pc9801bx-->pc9821cx13("**NEC PC-9821Cx's keyboard
-    CMP-6D0Y7**");
+    pc9801bx-->pc9821cx13("`**NEC PC-9821Cx's keyboard
+    CMP-6D0Y7**`");
     end
 
     subgraph Windows Me-2000
