@@ -17,27 +17,35 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 ## Keyboards
 
 ```mermaid
-graph TD;
-    subgraph MS-DOS
-    pc9801vx(NEC PC-9801VX's Keyboard)-->pc9801bx(NEC PC-9801BX's keyboard);
-    end
+flowchart TB;
+  subgraph MS-DOS
+    direction LR
 
-    subgraph Windows 95-NT-98
+    pc9801vx(NEC PC-9801VX's Keyboard)-->pc9801bx(NEC PC-9801BX's keyboard);
+  end
+  
+  subgraph Windows 95-NT-98
+    direction LR
+
     pc9801bx-->pc9821cx13("`**NEC PC-9821Cx's keyboard
     CMP-6D0Y7**`");
-    end
+  end
+  
+  subgraph Windows Me-2000
+    direction LR
 
-    subgraph Windows Me-2000
     pc9821cx13-->pcat1(Cheap PC/AT keyboards);
-    end
+  end
+  
+  subgraph Windows XP
+    direction LR
 
-    subgraph Windows XP
     pcat1-->nmb;
     nmb("`**NMB RT6652TWJP
     CMI-6D4Y6/B**`")-->Logitech(Logitech diNovo Edge)-->nmb;
-    end
-
-    subgraph Windows Vista-7/Linux
+  end
+  
+  subgraph Windows Vista-7/Linux
     nmb-->hhkb-lite(HHKB Lite 2);
     hhkb-lite-->filco-m(FILCO Majestouch);
     filco-m-->ae-kb("Apple Extended Keyboard II
@@ -55,9 +63,9 @@ graph TD;
     kinesis-a-->ergodox1("`**ErgoDox**`");
     kinesis-a-->thinkpad2("ThinkPad Compact USB Keyboard
     with TrackPoint");
-    end
-
-    subgraph macOS/Linux
+  end
+  
+  subgraph macOS/Linux
     ergodox1-->teck("`**Truly Ergonomic 209**`");
     teck-->filco-minila-r("FILCO Majestouch
     Minila R Convertible");
@@ -70,7 +78,7 @@ graph TD;
     ergodox2-->kinesis-a2(Kinesis Advantage 2);
     ergodox2-->hhkb-hybrid("`**HHKB
     Professional Hybrid**`");
-    end
+  end
 ```
 
 **HHKB**
