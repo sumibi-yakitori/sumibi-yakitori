@@ -80,8 +80,8 @@ flowchart TB
     subgraph macOS/Linux #2
       teck-->filco-minila-r("FILCO Majestouch
       Minila R Convertible")
-      teck-->ergodox2("`**ErgoDox
-      with upgraded plates**`")
+      teck-->ergodox2("`**ErgoDox with
+      upgraded plates**`")
       teck-->drop-alt(Drop ALT V1)
       drop-alt-->shinobi
       ergodox2-->shinobi(TEX Shinobi)
