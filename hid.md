@@ -33,8 +33,8 @@ graph TD;
 
     subgraph Windows XP
     pcat1-->nmb;
-    nmb("**NMB RT6652TWJP
-    CMI-6D4Y6/B**")-->Logitech(Logitech diNovo Edge)-->nmb;
+    nmb("`**NMB RT6652TWJP
+    CMI-6D4Y6/B**`")-->Logitech(Logitech diNovo Edge)-->nmb;
     end
 
     subgraph Windows Vista-7/Linux
@@ -47,29 +47,29 @@ graph TD;
     filco-m-->thinkpad1("ThinkPad USB Keyboard
     with TrackPoint
     55Y9003");
-    race-->hhkb-pro-jp("**HHKB
-    Professional JP**");
-    hhkb-pro-jp-->kinesis-a("**Kinesis Advantage
-    USB Contoured Keyboard**");
+    race-->hhkb-pro-jp("`**HHKB
+    Professional JP**`");
+    hhkb-pro-jp-->kinesis-a("`**Kinesis Advantage
+    USB Contoured Keyboard**`");
     kinesis-a-->hhkb-pro-jp;
-    kinesis-a-->ergodox1("**ErgoDox**");
+    kinesis-a-->ergodox1("`**ErgoDox**`");
     kinesis-a-->thinkpad2("ThinkPad Compact USB Keyboard
     with TrackPoint");
     end
 
     subgraph macOS/Linux
-    ergodox1-->teck("**Truly Ergonomic 209**");
+    ergodox1-->teck("`**Truly Ergonomic 209**`");
     teck-->filco-minila-r("FILCO Majestouch
     Minila R Convertible");
-    teck-->ergodox2("**ErgoDox
-    with upgraded plates**");
+    teck-->ergodox2("`**ErgoDox
+    with upgraded plates**`");
     teck-->drop-alt(Drop ALT V1);
     drop-alt-->shinobi;
     ergodox2-->shinobi(TEX Shinobi);
     shinobi-->ergodox2
     ergodox2-->kinesis-a2(Kinesis Advantage 2);
-    ergodox2-->hhkb-hybrid("**HHKB
-    Professional Hybrid**");
+    ergodox2-->hhkb-hybrid("`**HHKB
+    Professional Hybrid**`");
     end
 ```
 
