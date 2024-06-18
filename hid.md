@@ -50,7 +50,7 @@ graph TD;
     end
 
     subgraph macOS/Linux
-    ergodox1-->teck(Truly Ergonomic Keyboard);
+    ergodox1-->teck(Truly Ergonomic Keyboard 209);
     teck-->filco-minila-r(FILCO Majestouch Minila R Convertible);
     teck-->ergodox2(ErgoDox with upgraded plates);
     teck-->drop-alt(Drop ALT V1);
