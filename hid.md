@@ -25,7 +25,7 @@ graph TD;
     nmb[NMB RT6652TWJP CMI-6D4Y6/B]-->Logitech[Logitech diNovo Edge]-->nmb;
     nmb-->hhkb-lite[HHKB Lite 2];
     hhkb-lite-->filco-m[FILCO Majestouch];
-    filco-m-->ae-kb[Apple Extended Keyboard];
+    filco-m-->ae-kb[Apple Extended Keyboard II M3501];
     filco-m-->unicomp[UNICOMP UNI0P4A];
     filco-m-->race[KBTalking Race 75%];
     filco-m-->thinkpad1[ThinkPad USB Keyboard with TrackPoint 55Y9003];
