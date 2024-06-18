@@ -158,3 +158,4 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
 - [piper](https://github.com/libratbag/piper/)
 - [blog](https://note.com/yatsuishi/n/nc3554dc0986e)
 - [Replacing the support mechanism of the Kensington Pro Fit Ergo Vertical with bearings](https://namachan10777.hatenablog.com/entry/2020/10/18/014710)
+  > It should be noted that the static friction coefficient is small.
