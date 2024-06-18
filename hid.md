@@ -29,7 +29,7 @@ graph TD;
     filco-m-->unicomp[UNICOMP UNI0P4A];
     filco-m-->race[KBTalking Race 75%];
     filco-m-->thinkpad1[ThinkPad USB Keyboard with TrackPoint 55Y9003];
-    race-->hhkb-pro-jp[HHKB ProJP];
+    race-->hhkb-pro-jp[HHKB Professional JP];
     hhkb-pro-jp-->kinesis-a[Kinesis Advantage USB Contoured Keyboard];
     kinesis-a-->hhkb-pro-jp;
     kinesis-a-->ergodox1[ErgoDox];
