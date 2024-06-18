@@ -19,14 +19,14 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 ```mermaid
 graph TD;
     pc9801vx[NEC PC-9801VX's Keyboard]-->pc9801bx[NEC PC-9801BX's Keyboard];
-    pc9801bx-->pc9821cx13[NEC CMP-6D0Y7];
+    pc9801bx-->pc9821cx13[NEC NEC PC-9821Cx's Keyboard CMP-6D0Y7];
     pc9821cx13-->pcat1[Cheap PC/AT keyboards];
     pcat1-->nmb;
     nmb[NMB RT6652TWJP CMI-6D4Y6/B]-->Logitech[Logitech diNovo Edge]-->nmb;
     nmb-->hhkb-lite[HHKB Lite 2];
     hhkb-lite-->filco-m[FILCO Majestouch];
     filco-m-->ae-kb[Apple Extended Keyboard];
-    filco-m-->unicomp[UNICOMP];
+    filco-m-->unicomp[UNICOMP UNI0P4A];
     filco-m-->race[KBTalking Race 75%];
     filco-m-->thinkpad1[ThinkPad USB Keyboard with TrackPoint 55Y9003];
     race-->hhkb-pro-jp[HHKB ProJP];
