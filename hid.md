@@ -19,11 +19,12 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 ```mermaid
 graph TD;
     subgraph MS-DOS
-    pc9801vx(NEC PC-9801VX's Keyboard)-->pc9801bx(NEC PC-9801BX's Keyboard);
+    pc9801vx(NEC PC-9801VX's Keyboard)-->pc9801bx(NEC PC-9801BX's keyboard);
     end
 
     subgraph Windows 95-NT-98
-    pc9801bx-->pc9821cx13(NEC PC-9821Cx's Keyboard CMP-6D0Y7);
+    pc9801bx-->pc9821cx13("NEC PC-9821Cx's keyboard
+    CMP-6D0Y7");
     end
 
     subgraph Windows Me-2000
@@ -38,21 +39,28 @@ graph TD;
     subgraph Windows Vista-7/Linux
     nmb-->hhkb-lite(HHKB Lite 2);
     hhkb-lite-->filco-m(FILCO Majestouch);
-    filco-m-->ae-kb(Apple Extended Keyboard II M3501);
+    filco-m-->ae-kb("Apple Extended Keyboard II
+    M3501");
     filco-m-->unicomp(UNICOMP UNI0P4A);
     filco-m-->race(KBTalking Race 75%);
-    filco-m-->thinkpad1(ThinkPad USB Keyboard with TrackPoint 55Y9003);
+    filco-m-->thinkpad1("ThinkPad USB Keyboard
+    with TrackPoint
+    55Y9003");
     race-->hhkb-pro-jp(HHKB Professional JP);
-    hhkb-pro-jp-->kinesis-a(Kinesis Advantage USB Contoured Keyboard);
+    hhkb-pro-jp-->kinesis-a("Kinesis Advantage
+    USB Contoured Keyboard");
     kinesis-a-->hhkb-pro-jp;
     kinesis-a-->ergodox1(ErgoDox);
-    kinesis-a-->thinkpad2(ThinkPad Compact USB Keyboard with TrackPoint);
+    kinesis-a-->thinkpad2("ThinkPad Compact USB Keyboard
+    with TrackPoint");
     end
 
     subgraph macOS/Linux
     ergodox1-->teck(Truly Ergonomic Keyboard 209);
-    teck-->filco-minila-r(FILCO Majestouch Minila R Convertible);
-    teck-->ergodox2(ErgoDox with upgraded plates);
+    teck-->filco-minila-r("FILCO Majestouch
+    Minila R Convertible");
+    teck-->ergodox2("ErgoDox
+    with upgraded plates");
     teck-->drop-alt(Drop ALT V1);
     drop-alt-->shinobi;
     ergodox2-->shinobi(TEX Shinobi);
@@ -212,8 +220,10 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
   - [Replacing the support mechanism of the Kensington Pro Fit Ergo Vertical with bearings](https://namachan10777.hatenablog.com/entry/2020/10/18/014710)
     > It should be noted that the static friction coefficient is small.
 - References
-  - [PC9801 Keyboard - tmk_keyboard wiki](https://github.com/tmk/tmk_keyboard/wiki/PC-9801-Keyboard)
-  - [Valuestar in the Valuesky: The PC-9821 V13](https://nicole.express/2021/valuestar-in-the-valuesky.html)
+  - PC-98
+    - [PC9801 Keyboard - tmk_keyboard wiki](https://github.com/tmk/tmk_keyboard/wiki/PC-9801-Keyboard)
+    - [Valuestar in the Valuesky: The PC-9821 V13](https://nicole.express/2021/valuestar-in-the-valuesky.html)
+    - [PC-98 Keyboards](http://nkmm.org/yagura/kbd/)
 - Reviews
   - 2000s
     - [Keyboard research(Formerly known as Kenjin)](https://ide-research.net/keyboard/)
