@@ -156,3 +156,5 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
 - [A blog about taking apart mice and trackballs](https://michtw.blogspot.com/)
 - [input-remapper](https://github.com/sezanzeb/input-remapper)
 - [piper](https://github.com/libratbag/piper/)
+- [blog](https://note.com/yatsuishi/n/nc3554dc0986e)
+- [Replacing the support mechanism of the Kensington Pro Fit Ergo Vertical with bearings](https://namachan10777.hatenablog.com/entry/2020/10/18/014710)
