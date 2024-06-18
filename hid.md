@@ -167,7 +167,7 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
     > It should be noted that the static friction coefficient is small.
 - Reviews
   - 2000s
-    - [Keyboard research(Formerly known as Kenjin)](http://ex4.sakura.ne.jp/kb/)
+    - [Keyboard research(Formerly known as Kenjin)](https://ide-research.net/keyboard/)
     - [Qwerters Clinic](http://ex4.sakura.ne.jp/kb/)
     - [Neko's trackball room](http://mineko.fc2web.com/box/tb-room/)
     - [Neko's keyboard room](http://mineko.fc2web.com/box/kb-room/)
