@@ -21,16 +21,20 @@ graph TD;
     subgraph MS-DOS
     pc9801vx(NEC PC-9801VX's Keyboard)-->pc9801bx(NEC PC-9801BX's Keyboard);
     end
+
     subgraph Windows 95-NT-98
-    pc9801bx-->pc9821cx13(NEC NEC PC-9821Cx's Keyboard CMP-6D0Y7);
+    pc9801bx-->pc9821cx13(NEC PC-9821Cx's Keyboard CMP-6D0Y7);
     end
+
     subgraph Windows Me-2000
     pc9821cx13-->pcat1(Cheap PC/AT keyboards);
     end
+
     subgraph Windows XP
     pcat1-->nmb;
     nmb(NMB RT6652TWJP CMI-6D4Y6/B)-->Logitech(Logitech diNovo Edge)-->nmb;
     end
+
     subgraph Windows Vista-7/Linux
     nmb-->hhkb-lite(HHKB Lite 2);
     hhkb-lite-->filco-m(FILCO Majestouch);
@@ -44,6 +48,7 @@ graph TD;
     kinesis-a-->ergodox1(ErgoDox);
     kinesis-a-->thinkpad2(ThinkPad Compact USB Keyboard with TrackPoint);
     end
+
     subgraph macOS/Linux
     ergodox1-->teck(Truly Ergonomic Keyboard);
     teck-->filco-minila-r(FILCO Majestouch Minila R Convertible);
