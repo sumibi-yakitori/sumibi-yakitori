@@ -18,66 +18,78 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 
 ```mermaid
 flowchart TB;
-  subgraph MS-DOS
-    direction LR
+  subgraph 1990s
+    subgraph MS-DOS
+      direction LR
 
-    pc9801vx(NEC PC-9801VX's Keyboard)-->pc9801bx(NEC PC-9801BX's keyboard);
-  end
-  
-  subgraph Windows 95-NT-98
-    direction LR
+      pc9801vx(NEC PC-9801VX's Keyboard)-->pc9801bx(NEC PC-9801BX's keyboard);
+    end
+    
+    subgraph Windows 95-NT-98
+      direction LR
 
-    pc9801bx-->pc9821cx13("`**NEC PC-9821Cx's keyboard
-    CMP-6D0Y7**`");
+      pc9801bx-->pc9821cx13("`**NEC PC-9821Cx's keyboard
+      CMP-6D0Y7**`");
+    end
   end
   
-  subgraph Windows Me-2000
-    direction LR
+  subgraph 2000s
+    subgraph Windows Me-2000
+      direction LR
 
-    pc9821cx13-->pcat1(Cheap PC/AT keyboards);
-  end
-  
-  subgraph Windows XP
-    direction LR
+      pc9821cx13-->pcat1(Cheap PC/AT keyboards);
+    end
+    
+    subgraph Windows XP
+      direction LR
 
-    pcat1-->nmb;
-    nmb("`**NMB RT6652TWJP
-    CMI-6D4Y6/B**`")-->Logitech(Logitech diNovo Edge)-->nmb;
+      pcat1-->nmb;
+      nmb("`**NMB RT6652TWJP
+      CMI-6D4Y6/B**`")-->Logitech(Logitech diNovo Edge)-->nmb;
+    end
   end
   
-  subgraph Windows Vista-7/Linux
-    nmb-->hhkb-lite(HHKB Lite 2);
-    hhkb-lite-->filco-m(FILCO Majestouch);
-    filco-m-->ae-kb("Apple Extended Keyboard II
-    M3501");
-    filco-m-->unicomp(UNICOMP UNI0P4A);
-    filco-m-->race(KBTalking Race 75%);
-    filco-m-->thinkpad1("ThinkPad USB Keyboard
-    with TrackPoint
-    55Y9003");
-    race-->hhkb-pro-jp("`**HHKB
-    Professional JP**`");
-    hhkb-pro-jp-->kinesis-a("`**Kinesis Advantage
-    USB Contoured Keyboard**`");
-    kinesis-a-->hhkb-pro-jp;
-    kinesis-a-->ergodox1("`**ErgoDox**`");
-    kinesis-a-->thinkpad2("ThinkPad Compact USB Keyboard
-    with TrackPoint");
+  subgraph 2010s
+    subgraph Windows Vista-7/Linux
+      nmb-->hhkb-lite(HHKB Lite 2);
+      hhkb-lite-->filco-m(FILCO Majestouch);
+      filco-m-->ae-kb("Apple Extended Keyboard II
+      M3501");
+      filco-m-->unicomp(UNICOMP UNI0P4A);
+      filco-m-->race(KBTalking Race 75%);
+      filco-m-->thinkpad1("ThinkPad USB Keyboard
+      with TrackPoint
+      55Y9003");
+      race-->hhkb-pro-jp("`**HHKB
+      Professional JP**`");
+      hhkb-pro-jp-->kinesis-a("`**Kinesis Advantage
+      USB Contoured Keyboard**`");
+      kinesis-a-->hhkb-pro-jp;
+      kinesis-a-->ergodox1("`**ErgoDox**`");
+      kinesis-a-->thinkpad2("ThinkPad Compact USB Keyboard
+      with TrackPoint");
+    end
+
+    subgraph macOS/Linux #1
+      ergodox1-->teck("`**Truly Ergonomic 209**`");
+    end
   end
   
-  subgraph macOS/Linux
-    ergodox1-->teck("`**Truly Ergonomic 209**`");
-    teck-->filco-minila-r("FILCO Majestouch
-    Minila R Convertible");
-    teck-->ergodox2("`**ErgoDox
-    with upgraded plates**`");
-    teck-->drop-alt(Drop ALT V1);
-    drop-alt-->shinobi;
-    ergodox2-->shinobi(TEX Shinobi);
-    shinobi-->ergodox2
-    ergodox2-->kinesis-a2(Kinesis Advantage 2);
-    ergodox2-->hhkb-hybrid("`**HHKB
-    Professional Hybrid**`");
+
+  subgraph 2020s
+    subgraph macOS/Linux #2
+      teck-->filco-minila-r("FILCO Majestouch
+      Minila R Convertible");
+      teck-->ergodox2("`**ErgoDox
+      with upgraded plates**`");
+      teck-->drop-alt(Drop ALT V1);
+      drop-alt-->shinobi;
+      ergodox2-->shinobi(TEX Shinobi);
+      shinobi-->ergodox2
+      ergodox2-->kinesis-a2(Kinesis Advantage 2);
+      ergodox2-->hhkb-hybrid("`**HHKB
+      Professional Hybrid**`");
+    end
   end
 ```
 
