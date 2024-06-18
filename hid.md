@@ -1,4 +1,4 @@
-# HID handbook
+# HID Handbook
 
 ## Replacing HID switches
 
