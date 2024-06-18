@@ -156,10 +156,23 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
 
 ## Links
 
-- [forPCActionGamer Wiki](https://wikiwiki.jp/fpag/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)
-- [A blog about taking apart mice and trackballs](https://michtw.blogspot.com/)
-- [input-remapper](https://github.com/sezanzeb/input-remapper)
-- [piper](https://github.com/libratbag/piper/)
-- [blog](https://note.com/yatsuishi/n/nc3554dc0986e)
-- [Replacing the support mechanism of the Kensington Pro Fit Ergo Vertical with bearings](https://namachan10777.hatenablog.com/entry/2020/10/18/014710)
-  > It should be noted that the static friction coefficient is small.
+- Softwares
+  - Linux
+    - [input-remapper](https://github.com/sezanzeb/input-remapper)
+    - [piper](https://github.com/libratbag/piper/)
+    - [Mouse buttons - ArchWiki](https://wiki.archlinux.org/title/Mouse_buttons)
+- Disassembly
+  - [A blog about taking apart mice and trackballs](https://michtw.blogspot.com/)
+  - [Replacing the support mechanism of the Kensington Pro Fit Ergo Vertical with bearings](https://namachan10777.hatenablog.com/entry/2020/10/18/014710)
+    > It should be noted that the static friction coefficient is small.
+- Reviews
+  - 2000s
+    - [Keyboard research(Formerly known as Kenjin)](http://ex4.sakura.ne.jp/kb/)
+    - [Qwerters Clinic](http://ex4.sakura.ne.jp/kb/)
+    - [Neko's trackball room](http://mineko.fc2web.com/box/tb-room/)
+    - [Neko's keyboard room](http://mineko.fc2web.com/box/kb-room/)
+  - 2010s
+    - [Deskthority Wiki](https://deskthority.net/wiki/)
+    - [forPCActionGamer Wiki](https://wikiwiki.jp/fpag/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)
+  - 2020s
+    - [blog](https://note.com/yatsuishi/n/nc3554dc0986e)
