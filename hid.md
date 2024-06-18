@@ -16,6 +16,33 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 
 ## Keyboards
 
+```mermaid
+graph TD;
+    pc9821cx13[NEC CMP-6D0Y7]-->pcat1[Cheap PC/AT keyboards];
+    pcat1-->nmb;
+    nmb[NMB RT6652TWJP CMI-6D4Y6/B]-->Logitech[Logitech diNovo Edge]-->nmb;
+    nmb-->hhkb-lite[HHKB Lite 2];
+    hhkb-lite-->filco-m[FILCO Majestouch];
+    filco-m-->ae-kb[Apple Extended Keyboard];
+    filco-m-->unicomp[UNICOMP];
+    filco-m-->race[KBTalking Race 75%];
+    filco-m-->thinkpad1[ThinkPad USB Keyboard with TrackPoint 55Y9003];
+    race-->hhkb-pro-jp[HHKB ProJP];
+    hhkb-pro-jp-->kinesis-a[Kinesis Advance];
+    kinesis-a-->hhkb-pro-jp;
+    kinesis-a-->ergodox1[ErgoDox];
+    kinesis-a-->thinkpad2[ThinkPad Compact USB Keyboard with TrackPoint];
+    ergodox1-->teck[Truly Ergonomic Keyboard];
+    teck-->filco-minila-r[FILCO Majestouch Minila R Convertible];
+    teck-->ergodox2[ErgoDox with upgraded plates];
+    teck-->drop-alt[Drop ALT V1];
+    drop-alt-->shinobi;
+    ergodox2-->shinobi[TEX Shinobi];
+    shinobi-->ergodox2
+    ergodox2-->kinesis-a2[Kinesis Advance 2];
+    ergodox2-->hhkb-hybrid[HHKB Hybrid];
+```
+
 **HHKB**
 
 - [Alternative controller for HHKB](https://hhkb.io/modding/controllers/)
