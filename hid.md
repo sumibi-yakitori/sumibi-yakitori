@@ -18,7 +18,9 @@ https://www.hakko.com/japan/products/hakko_fr410.html)
 
 ```mermaid
 graph TD;
-    pc9821cx13[NEC CMP-6D0Y7]-->pcat1[Cheap PC/AT keyboards];
+    pc9801vx[NEC PC-9801VX's Keyboard]-->pc9801bx[NEC PC-9801BX's Keyboard];
+    pc9801bx-->pc9821cx13[NEC CMP-6D0Y7];
+    pc9821cx13-->pcat1[Cheap PC/AT keyboards];
     pcat1-->nmb;
     nmb[NMB RT6652TWJP CMI-6D4Y6/B]-->Logitech[Logitech diNovo Edge]-->nmb;
     nmb-->hhkb-lite[HHKB Lite 2];
@@ -28,7 +30,7 @@ graph TD;
     filco-m-->race[KBTalking Race 75%];
     filco-m-->thinkpad1[ThinkPad USB Keyboard with TrackPoint 55Y9003];
     race-->hhkb-pro-jp[HHKB ProJP];
-    hhkb-pro-jp-->kinesis-a[Kinesis Advance];
+    hhkb-pro-jp-->kinesis-a[Kinesis Advantage USB Contoured Keyboard];
     kinesis-a-->hhkb-pro-jp;
     kinesis-a-->ergodox1[ErgoDox];
     kinesis-a-->thinkpad2[ThinkPad Compact USB Keyboard with TrackPoint];
@@ -39,7 +41,7 @@ graph TD;
     drop-alt-->shinobi;
     ergodox2-->shinobi[TEX Shinobi];
     shinobi-->ergodox2
-    ergodox2-->kinesis-a2[Kinesis Advance 2];
+    ergodox2-->kinesis-a2[Kinesis Advantage 2];
     ergodox2-->hhkb-hybrid[HHKB Hybrid];
 ```
 
@@ -192,6 +194,9 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
   - [A blog about taking apart mice and trackballs](https://michtw.blogspot.com/)
   - [Replacing the support mechanism of the Kensington Pro Fit Ergo Vertical with bearings](https://namachan10777.hatenablog.com/entry/2020/10/18/014710)
     > It should be noted that the static friction coefficient is small.
+- References
+  - [PC9801 Keyboard - tmk_keyboard wiki](https://github.com/tmk/tmk_keyboard/wiki/PC-9801-Keyboard)
+  - [Valuestar in the Valuesky: The PC-9821 V13](https://nicole.express/2021/valuestar-in-the-valuesky.html)
 - Reviews
   - 2000s
     - [Keyboard research(Formerly known as Kenjin)](https://ide-research.net/keyboard/)
