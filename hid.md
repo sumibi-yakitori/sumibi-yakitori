@@ -148,6 +148,9 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 
 | Type           | Original parts         | Replacement parts |
 | -------------- | ---------------------- | ----------------- |
+| Left button    | Micro switch           |                   |
+| Right button   | Micro switch           |                   |
+| Middle button  | TTC Micro switch       |                   |
 | Rotary encoder | Something 11 mm height | Alps EC10E1220503 |
 
 ### Others
