@@ -263,4 +263,5 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
     - [Deskthority Wiki](https://deskthority.net/wiki/)
     - [forPCActionGamer Wiki](https://wikiwiki.jp/fpag/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)
   - 2020s
+    - [Libertouch.net](https://libertouch.net/)
     - [blog](https://note.com/yatsuishi/n/nc3554dc0986e)
