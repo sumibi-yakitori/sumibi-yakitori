@@ -4,7 +4,6 @@
 
 The circuits to which switches are soldered are likely to be through-holes.
 If those hard-to-remove switches are heated for a long time using a desoldering wick, the land will be heated and easily damaged.
-
 Therefore, as far as possible, use the FR-301[^DesolderingToolVideo][^FR-410] and a suitable nozzle to suck out the solder.
 
 Also, when unplugging the internal cable connector, pull on the cable part to pull out the pins, so grab the connector and pull it out.
@@ -123,18 +122,6 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 [^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
 
 
-**ROCCAT Burst Core**
-
-![Burst Core](https://m.media-amazon.com/images/I/61GoNz2MS0L._AC_SL200_.jpg)
-
-- Price: 3400 JPY 
-- The main switch is optical and is said to prevent chattering
-  but the clicking sound is light and cheap but not that unpleasant
-- Side buttons are large and easy to press
-- Wheel scrolling on it is little heavy
-- [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
-
-
 **ENDGAME GEAR XM1 RGB Gaming Mouse**
 
 ![XM1 RGB](https://m.media-amazon.com/images/I/71ni6FM7pKL._AC_SL200_.jpg)
@@ -152,9 +139,23 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 | Middle button   | Kailh tactile switch (70±10gf) |                   |
 | Microcontroller | 32bit STM ARM Cortex-M0 MCU    |                   |
 
+
+**ROCCAT Burst Core**
+
+![Burst Core](https://m.media-amazon.com/images/I/61GoNz2MS0L._AC_SL200_.jpg)
+
+- Price: 3400 JPY 
+- The main switch is optical and is said to prevent chattering
+  but the clicking sound is light and cheap but not that unpleasant
+- Side buttons are large and easy to press
+- Wheel scrolling on it is little heavy
+- [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
+
+
 ### Microsoft IntelliMouse Explorer 3.0 clones
 
-**SteelSeries RIVAL OPTICAL MOUSE**
+<details>
+<summary><strong>SteelSeries RIVAL OPTICAL MOUSE</strong></summary>
 
 ![RIVAL OPTICAL MOUSE](https://m.media-amazon.com/images/I/61y50QvUPSL._AC_SL200_.jpg)
 
@@ -168,6 +169,8 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 | Primary buttons | Micro switch           |                   |
 | Middle button   | TTC Micro switch       |                   |
 | Rotary encoder  | Something 11 mm height | Alps EC10E1220503 |
+</details>
+
 
 ### Others
 
@@ -268,12 +271,15 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
     - [Valuestar in the Valuesky: The PC-9821 V13](https://nicole.express/2021/valuestar-in-the-valuesky.html)
     - [PC-98 Keyboards](http://nkmm.org/yagura/kbd/)
 - Reviews
+  - 1990s
+    - [Atelier silencium](http://www5f.biglobe.ne.jp/~silencium/keyboard/index.html)
   - 2000s
     - [Keyboard research(Formerly known as Kenjin)](https://ide-research.net/keyboard/)
     - [Qwerters Clinic](http://ex4.sakura.ne.jp/kb/)
     - [SANDY55](http://sandy55.fc2web.com/)
     - [Neko's trackball room](http://mineko.fc2web.com/box/tb-room/)
     - [Neko's keyboard room](http://mineko.fc2web.com/box/kb-room/)
+    - [MouseFan](https://mousefan.telcontar.net/)
   - 2010s
     - [Deskthority Wiki](https://deskthority.net/wiki/)
     - [forPCActionGamer Wiki](https://wikiwiki.jp/fpag/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)
