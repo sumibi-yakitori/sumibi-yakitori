@@ -128,10 +128,10 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 ![Burst Core](https://m.media-amazon.com/images/I/61GoNz2MS0L._AC_SL200_.jpg)
 
 - Price: 3400 JPY 
-- The main switch is optical and is said to prevent chattering,
-  but the clicking sound is light and cheap but not that unpleasant.
-- Side buttons are large and easy to press.
-- Wheel scrolling on it is little heavy.
+- The main switch is optical and is said to prevent chattering
+  but the clicking sound is light and cheap but not that unpleasant
+- Side buttons are large and easy to press
+- Wheel scrolling on it is little heavy
 - [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
 
 
@@ -140,11 +140,11 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 ![XM1 RGB](https://m.media-amazon.com/images/I/71ni6FM7pKL._AC_SL200_.jpg)
 
 - Price: 3200 JPY, 59.00 USD
-- Wider body than WMO.
-- Main switch feels very good.
-- Side buttons easy to press.
-- Wheel scrolls on it is heavy.
-- Good cable with soft fabric.
+- Wider body than WMO
+- Main switch feels very good
+- Side buttons easy to press
+- Wheel scrolls on it is heavy
+- Good cable with soft fabric
 
 | Type            | Original parts                 | Replacement parts |
 | --------------- | ------------------------------ | ----------------- |
@@ -176,11 +176,11 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 
 ![M-CAD01UBBK](https://m.media-amazon.com/images/I/71xStNk1RFL._AC_SL200_.jpg)
 
-- It has OMRON micro switches.
-- It does not feel bad to hold.
+- It has OMRON micro switches
+- It does not feel bad to hold
 - Some DCC tool operations also require both a middle button click and wheel operation,
   so if you have the time to replace the switch on a regular mouse to create the ideal mouse,
-  I recommend you take that route.
+  I recommend you take that route
 
 </details>
 
