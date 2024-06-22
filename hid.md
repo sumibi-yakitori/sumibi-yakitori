@@ -138,12 +138,14 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 
 ![XM1 RGB](https://m.media-amazon.com/images/I/71ni6FM7pKL._AC_SL200_.jpg)
 
-- Price: 3200 JPY, 59.00 USD
+- Price: 3200 JPY[^xm1-1], 59.00 USD
 - Wider body than WMO
 - Main switch feels very good
 - Side buttons easy to press
 - Wheel scrolls on it is heavy
 - Good cable with soft fabric
+
+[^xm1-1]: Probably clearance sale price. Dark frost and dark reflex only
 
 | Type            | Original parts                 | Replacement parts |
 | --------------- | ------------------------------ | ----------------- |
