@@ -131,9 +131,26 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 - The main switch is optical and is said to prevent chattering,
   but the clicking sound is light and cheap but not that unpleasant.
 - Side buttons are large and easy to press.
-- Wheel scrolling on it is heavy.
+- Wheel scrolling on it is little heavy.
 - [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
 
+
+**ENDGAME GEAR XM1 RGB Gaming Mouse**
+
+![XM1 RGB](https://m.media-amazon.com/images/I/71ni6FM7pKL._AC_SL200_.jpg)
+
+- Price: 3200 JPY, 59.00 USD
+- Wider body than WMO.
+- Main switch feels very good.
+- Side buttons easy to press.
+- Wheel scrolls on it is heavy.
+- Good cable with soft fabric.
+
+| Type            | Original parts                 | Replacement parts |
+| --------------- | ------------------------------ | ----------------- |
+| Primary Buttons | Kailh GM 4.0 (60±5gf)          |                   |
+| Middle button   | Kailh tactile switch (70±10gf) |                   |
+| Microcontroller | 32bit STM ARM Cortex-M0 MCU    |                   |
 
 ### Microsoft IntelliMouse Explorer 3.0 clones
 
@@ -146,12 +163,11 @@ The rubber coating on the body of this product undergoes hydrolysis over time.
 - Price: 6300 JPY 
 - Release date: October 11, 2013
 
-| Type           | Original parts         | Replacement parts |
-| -------------- | ---------------------- | ----------------- |
-| Left button    | Micro switch           |                   |
-| Right button   | Micro switch           |                   |
-| Middle button  | TTC Micro switch       |                   |
-| Rotary encoder | Something 11 mm height | Alps EC10E1220503 |
+| Type            | Original parts         | Replacement parts |
+| --------------- | ---------------------- | ----------------- |
+| Primary buttons | Micro switch           |                   |
+| Middle button   | TTC Micro switch       |                   |
+| Rotary encoder  | Something 11 mm height | Alps EC10E1220503 |
 
 ### Others
 
@@ -197,12 +213,11 @@ This product uses bearings in the trackball support mechanism. However, all butt
 The heavy clicking of the main switches in particular leads to discomfort and fatigue as the time of use increases,
 so it is advisable to replace these switches first and foremost.
 
-| Type           | Original parts              | Replacement parts         |
-| -------------- | --------------------------- | ------------------------- |
-| Left button    | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
-| Right button   | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
-| Middle button  | Kailh black body/black axis | [OMRON D2F-01F](#d2f-01f) |
-| Rotary encoder | Something 11 mm height      | Alps EC10E1220503         |
+| Type            | Original parts              | Replacement parts         |
+| --------------- | --------------------------- | ------------------------- |
+| Primary buttons | Kailh black body/red axis   | [OMRON D2F-01F](#d2f-01f) |
+| Middle button   | Kailh black body/black axis | [OMRON D2F-01F](#d2f-01f) |
+| Rotary encoder  | Something 11 mm height      | Alps EC10E1220503         |
 
 
 ## Switches
