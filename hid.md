@@ -275,7 +275,7 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
     - [Nogujyu Keyboard Mania - How to store the keyboards](http://www2s.biglobe.ne.jp/~qwerty/pc/keyboard.html)
 - Reviews
   - 1990-2000s
-    - [http://telcontar.net/](http://telcontar.net/)
+    - [Telcontar.net](http://telcontar.net/)
     - [Atelier silencium](http://www5f.biglobe.ne.jp/~silencium/keyboard/index.html)
     - [Nogujyu Keyboard Mania](http://www2s.biglobe.ne.jp/~qwerty/pc/keyboard.html)
     - [Nogujyu Mouse Mania](http://www2s.biglobe.ne.jp/%7Eqwerty/mouse/)
