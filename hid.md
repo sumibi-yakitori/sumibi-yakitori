@@ -264,15 +264,21 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
 - Disassembly
   - [A blog about taking apart mice and trackballs](https://michtw.blogspot.com/)
   - [Replacing the support mechanism of the Kensington Pro Fit Ergo Vertical with bearings](https://namachan10777.hatenablog.com/entry/2020/10/18/014710)
-    > It should be noted that the static friction coefficient is small.
+    > It should be noted that the static friction coefficient is small
 - References
   - PC-98
     - [PC9801 Keyboard - tmk_keyboard wiki](https://github.com/tmk/tmk_keyboard/wiki/PC-9801-Keyboard)
     - [Valuestar in the Valuesky: The PC-9821 V13](https://nicole.express/2021/valuestar-in-the-valuesky.html)
     - [PC-98 Keyboards](http://nkmm.org/yagura/kbd/)
+  - Removing yellowing(Ansho ouhen) from ABS plastics
+    - [Retrobright - Wikipedia](https://ja.wikipedia.org/wiki/Retr0bright)
+    - [Nogujyu Keyboard Mania - How to store the keyboards](http://www2s.biglobe.ne.jp/~qwerty/pc/keyboard.html)
 - Reviews
-  - 1990s
+  - 1990-2000s
+    - [http://telcontar.net/](http://telcontar.net/)
     - [Atelier silencium](http://www5f.biglobe.ne.jp/~silencium/keyboard/index.html)
+    - [Nogujyu Keyboard Mania](http://www2s.biglobe.ne.jp/~qwerty/pc/keyboard.html)
+    - [Nogujyu Mouse Mania](http://www2s.biglobe.ne.jp/%7Eqwerty/mouse/)
   - 2000s
     - [Keyboard research(Formerly known as Kenjin)](https://ide-research.net/keyboard/)
     - [Qwerters Clinic](http://ex4.sakura.ne.jp/kb/)
