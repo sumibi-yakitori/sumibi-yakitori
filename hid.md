@@ -108,6 +108,9 @@ flowchart TB
 - Apple Extended Keyboard
   - [Deskthority](https://deskthority.net/wiki/Apple_Extended_Keyboard)
   - [SANDY55](http://sandy55.fc2web.com/keyboard/apple_aek-II%20m3501.html)
+- MalicAcid A65
+  - [Booth](https://booth.pm/ja/items/4336902)
+  - [blog](https://ninthsky.hatenablog.com/entry/malicacid_a65)
 
 
 ## Pointing devices
