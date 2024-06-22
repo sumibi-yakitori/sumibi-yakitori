@@ -288,7 +288,6 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
     - [Atelier silencium](http://www5f.biglobe.ne.jp/~silencium/keyboard/index.html)
     - [Nogujyu Keyboard Mania](http://www2s.biglobe.ne.jp/~qwerty/pc/keyboard.html)
     - [Nogujyu Mouse Mania](http://www2s.biglobe.ne.jp/%7Eqwerty/mouse/)
-  - 2000s
     - [Keyboard research(Formerly known as Kenjin)](https://ide-research.net/keyboard/)
     - [Qwerters Clinic](http://ex4.sakura.ne.jp/kb/)
     - [SANDY55](http://sandy55.fc2web.com/)
