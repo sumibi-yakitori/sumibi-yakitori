@@ -100,6 +100,15 @@ flowchart TB
 - [Keycaps](https://www.pfu.ricoh.com/direct/hhkb/hhkb-option/detail_keytop.html)
 - [Remapping is apparently possible with HHKB Classic](https://www.reddit.com/r/HHKB/comments/g9ciwp/remapping_the_classic_with_the_hhkbkeymaptool/)
 
+**Classic Apple keyboards**
+
+- Apple Standard Keyboard
+  - [Deskthority](https://deskthority.net/wiki/Apple_Standard_Keyboard)
+  - [SANDY55](http://sandy55.fc2web.com/keyboard/keyboard.html)
+- Apple Extended Keyboard
+  - [Deskthority](https://deskthority.net/wiki/Apple_Extended_Keyboard)
+  - [SANDY55](http://sandy55.fc2web.com/keyboard/apple_aek-II%20m3501.html)
+
 
 ## Pointing devices
 
