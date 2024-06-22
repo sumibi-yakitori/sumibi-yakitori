@@ -64,7 +64,7 @@ flowchart TB
       hhkb-pro-jp-->kinesis-a("`**Kinesis Advantage
       USB Contoured Keyboard**`")
       kinesis-a-->hhkb-pro-jp
-      kinesis-a-- "`Farewelal to Japanese layout`" -->ergodox1("`**ErgoDox**`")
+      kinesis-a-- "`Quit using Japanese layouts`" -->ergodox1("`**ErgoDox**`")
       kinesis-a-->thinkpad2("ThinkPad Compact USB Keyboard
       with TrackPoint")
     end
