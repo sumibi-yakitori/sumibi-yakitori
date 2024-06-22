@@ -150,6 +150,7 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 | Primary Buttons | Kailh GM 4.0 (60±5gf)          |                   |
 | Middle button   | Kailh tactile switch (70±10gf) |                   |
 | Microcontroller | 32bit STM ARM Cortex-M0 MCU    |                   |
+| Rotary encoder  | Alps                           |                   |
 
 
 **ROCCAT Burst Core**
@@ -303,3 +304,9 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
   - 2020s
     - [Libertouch.net](https://libertouch.net/)
     - [blog](https://note.com/yatsuishi/n/nc3554dc0986e)
+- Manifactures / Shops
+  - [TEX](https://tex.com.tw)
+    - [They sell 100 cherry switches for USD 50](https://tex.com.tw/products/cherry-mx1a-type-switch?variant=39598545207451)
+  - These would be good stores to buy a small number of switches
+    - [Yusha koubou](https://www.amazon.co.jp/s?me=A30BRC27PDZW2W&marketplaceID=A1VC38T7YXB528)
+    - [JW-system](https://www.jw-shop.com/pkey030-mswitch/page010/index.htm)
