@@ -54,7 +54,7 @@ flowchart TB
       filco-m-->unicomp(UNICOMP UNI0P4A)
       filco-m-->race(KBTalking Race 75%)
       filco-m-->thinkpad1("ThinkPad USB Keyboard <br> with TrackPoint <br> 55Y9003")
-      race-->hhkb-pro-jp("<strong>*HKB <br> Professional JP</strong>")
+      race-->hhkb-pro-jp("<strong>HHKB <br> Professional JP</strong>")
       hhkb-pro-jp-->kinesis-a("<strong>Kinesis Advantage <br> USB Contoured Keyboard</strong>")
       kinesis-a-->hhkb-pro-jp
       kinesis-a-- "`Quit using Japanese layouts`" -->ergodox1("`**ErgoDox**`")
