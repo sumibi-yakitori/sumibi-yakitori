@@ -100,9 +100,14 @@ flowchart TB
   - [Booth](https://booth.pm/ja/items/4336902)
   - [blog](https://ninthsky.hatenablog.com/entry/malicacid_a65)
 
+
 **Lubricate**
 
 Greasing is tedious and requires dismantling the housing to achieve full lubrication, so simply spraying a dry lubricant (such as KRE's Dry Fast Lube) into the stem gap from outside the housing is quite effective. The grease will probably be more durable.
+
+- [Fujitsu leaf spring](https://kiyoto-y.github.io/fkb_mainte.htm)
+- [APPLE Keyboard I - SANDY55](http://sandy55.fc2web.com/keyboard/apple_m0116.html)
+  - Tried with ALPS switches and found significant improvements with dry lubricants
 
 
 ## Pointing devices
