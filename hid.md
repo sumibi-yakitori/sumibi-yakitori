@@ -111,7 +111,10 @@ Greasing is tedious and requires dismantling the housing to achieve full lubrica
   - When tried with the ALPS switch, dry lubricant showed a marked improvement. However, **about 20% of the switches became unresponsive**
   - Fluoropolymers are said to be very good insulators. Perhaps that is the cause.
   - [How to pull out the ALPS axis - YouTube](https://www.youtube.com/watch?v=R5QIARXUuc0)
-  - [Teardown](https://tijikusen.hatenablog.com/entry/2023/07/30/163126)
+  - [Teardown #1](https://tijikusen.hatenablog.com/entry/2023/07/30/163126)
+  - [Teardown #2](http://pasokatu.com/4393)
+  - [Teardown #3](https://scrapbox.io/self-made-kbds-ja/ALPS_SKCM%2FSKCL)
+  - [Teardown #4](http://hieroglyphe.blog47.fc2.com/blog-entry-29.html)
 
 
 ## Pointing devices
