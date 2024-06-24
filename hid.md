@@ -87,6 +87,7 @@ flowchart TB
 - [Alternative controller for HHKB](https://hhkb.io/modding/controllers/)
 - [Keycaps](https://www.pfu.ricoh.com/direct/hhkb/hhkb-option/detail_keytop.html)
 - [Remapping is apparently possible with HHKB Classic](https://www.reddit.com/r/HHKB/comments/g9ciwp/remapping_the_classic_with_the_hhkbkeymaptool/)
+- [HHKB Studio Switch vs Kailh Deep Sea Silent Box Switch Islet](https://www.talpkeyboard.com/entry/2023/11/05/072302)
 
 **Classic Apple keyboards**
 
@@ -107,7 +108,10 @@ Greasing is tedious and requires dismantling the housing to achieve full lubrica
 
 - [Fujitsu leaf spring](https://kiyoto-y.github.io/fkb_mainte.htm)
 - [APPLE Keyboard I - SANDY55](http://sandy55.fc2web.com/keyboard/apple_m0116.html)
-  - Tried with ALPS switches and found significant improvements with dry lubricants
+  - When tried with the ALPS switch, dry lubricant showed a marked improvement. However, **about 20% of the switches became unresponsive**
+  - Fluoropolymers are said to be very good insulators. Perhaps that is the cause.
+  - [How to pull out the ALPS axis - YouTube](https://www.youtube.com/watch?v=R5QIARXUuc0)
+  - [Teardown](https://tijikusen.hatenablog.com/entry/2023/07/30/163126)
 
 
 ## Pointing devices
