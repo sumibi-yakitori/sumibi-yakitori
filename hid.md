@@ -100,6 +100,10 @@ flowchart TB
   - [Booth](https://booth.pm/ja/items/4336902)
   - [blog](https://ninthsky.hatenablog.com/entry/malicacid_a65)
 
+**Lubricate**
+
+Greasing is tedious and requires dismantling the housing to achieve full lubrication, so simply spraying a dry lubricant (such as KRE's Dry Fast Lube) into the stem gap from outside the housing is quite effective. The grease will probably be more durable.
+
 
 ## Pointing devices
 
@@ -286,9 +290,11 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
     - [Neko's trackball room](http://mineko.fc2web.com/box/tb-room/)
     - [Neko's keyboard room](http://mineko.fc2web.com/box/kb-room/)
     - [MouseFan](https://mousefan.telcontar.net/)
+    - [Fujitsu leaf spring](https://kiyoto-y.github.io/fkb_stock.htm)
   - 2010s
     - [Deskthority Wiki](https://deskthority.net/wiki/)
     - [forPCActionGamer Wiki](https://wikiwiki.jp/fpag/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81)
+    - [VIP de Jisaku PC](https://w.atwiki.jp/vippc2/pages/94.html)
   - 2020s
     - [Libertouch.net](https://libertouch.net/)
     - [blog](https://note.com/yatsuishi/n/nc3554dc0986e)
