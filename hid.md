@@ -138,7 +138,7 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 [^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
 
 
-**ENDGAME GEAR XM1 RGB Gaming Mouse**
+**ENDGAME GEAR XM1 RGB Gaming Mouse (Dark Reflex)**
 
 ![XM1 RGB](https://m.media-amazon.com/images/I/71ni6FM7pKL._AC_SL200_.jpg)
 
@@ -149,12 +149,12 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 - Wheel scrolls on it is heavy
 - Good cable with soft fabric
 
-| Type            | Original parts                 | Replacement parts |
-| --------------- | ------------------------------ | ----------------- |
-| Primary Buttons | Kailh GM 4.0 (60±5gf)          |                   |
-| Middle button   | Kailh tactile switch (70±10gf) |                   |
-| Microcontroller | 32bit STM ARM Cortex-M0 MCU    |                   |
-| Rotary encoder  | Alps                           |                   |
+| Type            | Original parts                 |
+| --------------- | ------------------------------ |
+| Primary Buttons | Kailh GM 4.0 (60±5gf)          |
+| Middle button   | Kailh tactile switch (70±10gf) |
+| Microcontroller | 32bit STM ARM Cortex-M0 MCU    |
+| Rotary encoder  | Alps                           |
 
 
 **ROCCAT Burst Core**
