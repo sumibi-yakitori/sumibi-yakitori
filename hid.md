@@ -89,6 +89,7 @@ flowchart TB
 - [Remapping is apparently possible with HHKB Classic](https://www.reddit.com/r/HHKB/comments/g9ciwp/remapping_the_classic_with_the_hhkbkeymaptool/)
 - [HHKB Studio Switch vs Kailh Deep Sea Silent Box Switch Islet - TALPKEYBOARD BLOG](https://www.talpkeyboard.com/entry/2023/11/05/072302)
 
+
 **Classic Apple keyboards**
 
 - Apple Standard Keyboard
@@ -102,13 +103,34 @@ flowchart TB
   - [blog](https://ninthsky.hatenablog.com/entry/malicacid_a65)
 
 
-**Lubricate**
+**TEX Shura (hot-swappable)**
+
+| Keycap size | Mounted switches                            |
+| ----------- | ------------------------------------------- |
+| 1U          | Cherry MX Brown                             |
+| >1U         | DUROCK White Lotus Light[^DurockWhiteLotus] |
+
+I had assumed this keyboard was a fairly similar slim version that shares parts with the TEX Shinobi,
+Surprising, The TEX Shinobi keycap legend is printed, however the TEX Shura keycap was a double shot.
+
+[^DurockWhiteLotus]: The appeal point seems to be that it is an alternative to Cherry MX Brown. It seems similar to Holy Panda.
+
+
+**FILCO Majestouch MINILA R Convertible**
+
+The keycaps on these are claimed to be PBT, but like ABS, they deteriorate quickly. Therefore,
+the quality cannot be said to be good.
+The sides of the keycaps feel rough like PBT, but the patches on the keytops feel like ABS, even when new.
+
+
+**Lubrication**
 
 Greasing is tedious and requires dismantling the housing to achieve full lubrication, so simply spraying a dry lubricant (such as KRE's Dry Fast Lube) into the stem gap from outside the housing is quite effective. The grease will probably be more durable.
 
 - [Fujitsu leaf spring](https://kiyoto-y.github.io/fkb_mainte.htm)
 - [APPLE Keyboard I - SANDY55](http://sandy55.fc2web.com/keyboard/apple_m0116.html)
   - When tried with the ALPS switch, dry lubricant showed a marked improvement. However, **about 20% of the switches became unresponsive**
+    I disassembled those switches, applied contact revivifier, and adjusted the spring of the contacts, and they were cured. Since the side of the stem is the sliding part, it would be less risky to apply lubricant only there.
   - Fluoropolymers are said to be very good insulators. Perhaps that is the cause.
   - [How to pull out the ALPS axis - YouTube](https://www.youtube.com/watch?v=R5QIARXUuc0)
   - [Teardown #1](https://tijikusen.hatenablog.com/entry/2023/07/30/163126)
@@ -120,6 +142,29 @@ Greasing is tedious and requires dismantling the housing to achieve full lubrica
 ## Pointing devices
 
 ### Microsoft Wheel Mouse Optical clones
+
+**ENDGAME GEAR XM1 RGB Gaming Mouse (Dark Reflex)**
+
+![XM1 RGB](https://m.media-amazon.com/images/I/71ni6FM7pKL._AC_SL200_.jpg)
+
+- Price: 9000-3200 JPY, 59.00 USD
+- Wider body than WMO
+- Main switch feels very good
+  - The ease of pressing not only the switches but also the buttons, due to their shape, is very good.
+- Side buttons easy to press
+- Wheel scrolls on it is heavy
+- Good cable with soft fabric
+- The Dark Reflex version has no surface finish compared to the other color variations. Therefore, it may be less likely to deteriorate in feel over time.
+
+| Type            | Original parts                 |
+| --------------- | ------------------------------ |
+| Primary Buttons | Kailh GM 4.0 (60±5gf)          |
+| Middle button   | Kailh tactile switch (70±10gf) |
+| Microcontroller | 32bit STM ARM Cortex-M0 MCU    |
+| Rotary encoder  | Alps                           |
+
+[Interview with Jonas Bollack(Endgame Gear) - hermitage akihabara](https://www.gdm.or.jp/review/2024/0624/543202)
+
 
 **SteelSeries RIVAL 3**
 
@@ -137,24 +182,6 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 [^nospace]: There is no space here for a 3-pin microswitch.
 [^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
 
-
-**ENDGAME GEAR XM1 RGB Gaming Mouse (Dark Reflex)**
-
-![XM1 RGB](https://m.media-amazon.com/images/I/71ni6FM7pKL._AC_SL200_.jpg)
-
-- Price: 3200 JPY, 59.00 USD
-- Wider body than WMO
-- Main switch feels very good
-- Side buttons easy to press
-- Wheel scrolls on it is heavy
-- Good cable with soft fabric
-
-| Type            | Original parts                 |
-| --------------- | ------------------------------ |
-| Primary Buttons | Kailh GM 4.0 (60±5gf)          |
-| Middle button   | Kailh tactile switch (70±10gf) |
-| Microcontroller | 32bit STM ARM Cortex-M0 MCU    |
-| Rotary encoder  | Alps                           |
 
 
 **ROCCAT Burst Core**
