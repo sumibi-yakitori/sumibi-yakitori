@@ -84,10 +84,10 @@ flowchart TB
 
 **HHKB**
 
-- [Alternative controller for HHKB](https://hhkb.io/modding/controllers/)
-- [Keycaps](https://www.pfu.ricoh.com/direct/hhkb/hhkb-option/detail_keytop.html)
+- [Alternative controller for HHKB - hhkb.io](https://hhkb.io/modding/controllers/)
+- [Keycaps - PFU direct](https://www.pfu.ricoh.com/direct/hhkb/hhkb-option/detail_keytop.html)
 - [Remapping is apparently possible with HHKB Classic](https://www.reddit.com/r/HHKB/comments/g9ciwp/remapping_the_classic_with_the_hhkbkeymaptool/)
-- [HHKB Studio Switch vs Kailh Deep Sea Silent Box Switch Islet](https://www.talpkeyboard.com/entry/2023/11/05/072302)
+- [HHKB Studio Switch vs Kailh Deep Sea Silent Box Switch Islet - TALPKEYBOARD BLOG](https://www.talpkeyboard.com/entry/2023/11/05/072302)
 
 **Classic Apple keyboards**
 
@@ -98,7 +98,7 @@ flowchart TB
   - [Deskthority](https://deskthority.net/wiki/Apple_Extended_Keyboard)
   - [SANDY55](http://sandy55.fc2web.com/keyboard/apple_aek-II%20m3501.html)
 - MalicAcid A65
-  - [Booth](https://booth.pm/ja/items/4336902)
+  - [MalicAcid A65 - Ninthsky Studio - BOOTH](https://booth.pm/ja/items/4336902)
   - [blog](https://ninthsky.hatenablog.com/entry/malicacid_a65)
 
 
@@ -275,8 +275,8 @@ Even in the 2020s, Mitsubishi seems to be better than other stationery manufactu
 
 - Softwares
   - Linux
-    - [input-remapper](https://github.com/sezanzeb/input-remapper)
-    - [piper](https://github.com/libratbag/piper/)
+    - [GitHub - sezanzeb/input-remapper: An easy to use tool to change the behaviour of your input devices](https://github.com/sezanzeb/input-remapper)
+    - [GitHub - libratbag/piper: GTK application to configure gaming devices](https://github.com/libratbag/piper/)
     - [Mouse buttons - ArchWiki](https://wiki.archlinux.org/title/Mouse_buttons)
 - Disassembly
   - [A blog about taking apart mice and trackballs](https://michtw.blogspot.com/)
