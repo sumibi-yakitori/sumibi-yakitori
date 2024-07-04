@@ -73,16 +73,18 @@ flowchart TB
       teck-->ergodox2("<strong>ErgoDox with <br> upgraded plates</strong>")
       teck-->drop-alt(Drop ALT V1)
       drop-alt-->shinobi
-      ergodox2-->shinobi("`**TEX Shinobi**`")
+      ergodox2-->tex-shinobi("`**TEX Shinobi**`")
       shinobi-->ergodox2
       ergodox2-->kinesis-a2(Kinesis Advantage 2)
       ergodox2-->maja("VULCAN X KBDFANS <br> MAJA V2")
+      ergodox2-->tex-shura("**TEX Shura**")
+      ergodox2-->as-kb("Apple Standard Keyboard <br> M0116 <br> ALPS Salmon")
       ergodox2-->hhkb-hybrid("<strong>HHKB <br> Professional Hybrid</strong>")
     end
   end
 ```
 
-**HHKB**
+**Happy Hacking Keyboard**
 
 - [Alternative controller for HHKB - hhkb.io](https://hhkb.io/modding/controllers/)
 - [Keycaps - PFU direct](https://www.pfu.ricoh.com/direct/hhkb/hhkb-option/detail_keytop.html)
@@ -109,6 +111,9 @@ flowchart TB
 | ----------- | ------------------------------------------- |
 | 1U          | Cherry MX Brown                             |
 | >1U         | DUROCK White Lotus Light[^DurockWhiteLotus] |
+
+- Since the switches are mounted on a steel plate, there is a hard, pleasing strike when switches with a definite bottoming feeling are mounted.
+  - However, other than the trackpoint, there is no added value such as a split layout or ergonomic layout, so it is not as pleasurable as the pleasure provided by the HHKB's keystroke feel.
 
 I had assumed this keyboard was a fairly similar slim version that shares parts with the TEX Shinobi,
 Surprising, The TEX Shinobi keycap legend is printed, however the TEX Shura keycap was a double shot.
@@ -183,8 +188,16 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 [^EVQP0E07K]: [Microswitch replacement in Kensington Orbit Scroll](https://www.reddit.com/r/Trackballs/comments/o8ai5q/microswitch_replacement_in_kensington_orbit_scroll/)
 
 
+**Microsoft Wheel Mouse Optical**
 
-**ROCCAT Burst Core**
+| Type            | Original parts |
+| --------------- | -------------- |
+| Primary Buttons | Microswitches  |
+| Middle button   | Microswitch    |
+
+
+<details>
+<summary><strong>ROCCAT Burst Core</strong></summary>
 
 ![Burst Core](https://m.media-amazon.com/images/I/61GoNz2MS0L._AC_SL200_.jpg)
 
@@ -194,6 +207,8 @@ This product has a heavy wheel click, but is otherwise a very good WMO clone.
 - Side buttons are large and easy to press
 - Wheel scrolling on it is little heavy
 - [Great review](https://www.reddit.com/r/MouseReview/comments/kg4cwk/roccat_burst_core_detailed_review_the_new_budget/?rdt=64162)
+
+</details>
 
 
 ### Microsoft IntelliMouse Explorer 3.0 clones
