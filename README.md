@@ -86,6 +86,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Notes
-
-- [HID](hid.md)
